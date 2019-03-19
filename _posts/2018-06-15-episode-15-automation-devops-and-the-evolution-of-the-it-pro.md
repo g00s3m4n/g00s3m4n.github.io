@@ -1,0 +1,13 @@
+---
+author: chris
+title: 'Episode 15 - Automation, DevOps and the evolution of the IT Pro'
+slug: episode-15-automation-devops-and-the-evolution-of-the-it-pro
+id: 205
+date: '2018-06-15 19:23:32'
+layout: post
+categories:
+  - Interviews
+  - Uncategorized
+---
+
+The word DevOps seems to be everywhere at the moment, I can't open LinkedIn without coming across a bunch of posts and articles talking about DevOps. What does it all mean, and more specifically why should IT Pros care about something that seems at first glance to be very much related to software development? I recently caught up with fellow MVPs [Simon Waight](https://blog.siliconvalve.com) and [Michel de Rooij](https://eightwone.com) in an attempt to understand what it is and why it is something worth paying attention to. ![](http://thearchitects.cloud/wp-content/uploads/2018/06/simon-150x150.jpg) Simon Waight is an Azure MVP from Australia who's career focus has been on the building of online software solutions resulting in a deep understanding of the technologies used and challenges faced when working in this space. He has a wide-ranging set of experiences having worked as both a consultant and an FTE and filled varied roles from development, to architecture, to release and team management. You can follow Simon on Twitter <span class="username u-dir" dir="ltr">[@**simonwaight**](https://twitter.com/simonwaight) and visit his blog at [blog.siliconvalve.com](https://blog.siliconvalve.com)</span>   ![](http://thearchitects.cloud/wp-content/uploads/2018/06/michel-150x150.jpg)Michel de Rooij is a Dutch Office Servers and Services MVP and Consultant who spends his time <span class="lt-line-clamp__line">helping customers navigate the</span><span class="lt-line-clamp__line"> challenges associated with migrating to Office 365 for Exchange and related technologies. Michel's background as a</span><span class="lt-line-clamp__line lt-line-clamp__line--last"> developer helps him automate processes and develop supporting tools.</span> Michel blogs at [eightwone.com](https://eightwone.com) and you can follow him on Twitter [<span class="username u-dir" dir="ltr">@**mderooij**</span> ](https://twitter.com/mderooij)   [embed]https://soundcloud.com/thecloudarchitects/episode-15-automation-devops-and-the-evolution-of-the-it-pro[/embed] This Episode is brought to you by KEMP TECHNOLOGIES. We chose Kemp as a sponsor due to their amazing Cloud product line. Have a look at this amazing video on how Kemp 360 is helping companies achieve zero downtime and full scalability in their infrastructure. [embed]https://www.youtube.com/watch?v=dVvHokor9wc[/embed]
